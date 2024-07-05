@@ -35,7 +35,7 @@ ConectaClima é um aplicativo móvel que permite aos usuários:
 
 1. Clone o Repositório:
     ```bash
-    git clone https://github.com/SeuUsuario/ConectaClima.git
+    git clone https://github.com/DizeuM/HackerCidadao11.git
     ```
 
 2. Navegue até a pasta do projeto:
