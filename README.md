@@ -6,6 +6,7 @@ ConectaClima é um aplicativo móvel desenvolvido durante o hackathon Hacker Cid
 ## Estrutura do Projeto
 
 ```
+```
 conectaclima/
 ├── app/
 │   ├── app/
