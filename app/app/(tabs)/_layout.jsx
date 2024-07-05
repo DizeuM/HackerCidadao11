@@ -2,17 +2,16 @@ import React from 'react'
 
 import { Redirect, Tabs } from "expo-router";
 import { Image, Text, View } from "react-native";
-import icons from "../../constants/icons";
 
 const TabIcon = ({ icon, color, name, focused }) => {
     return (
       <View className="flex items-center justify-center gap-2 mt-3">
-        <Image
+        {/* <Image
           source={icon}
           resizeMode="contain"
           tintColor={color}
           className="w-7 h-7"
-        />
+        /> */}
         <Text
           className={`${focused ? "font-msemibold" : "font-mregular"} text-xxs`}
           style={{ color: color }}
@@ -46,7 +45,7 @@ const TabsLayout = () => {
             headerShown: false,
             tabBarIcon: ({ color, focused }) => (
               <TabIcon
-                icon={icons.house}
+                // icon={icons.house}
                 color={color}
                 name="Home"
                 focused={focused}
@@ -62,7 +61,7 @@ const TabsLayout = () => {
             headerShown: false,
             tabBarIcon: ({ color, focused }) => (
               <TabIcon
-                icon={icons.user}
+                // icon={icons.user}
                 color={color}
                 name="Perfil"
                 focused={focused}
