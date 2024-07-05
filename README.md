@@ -7,9 +7,9 @@ ConectaClima é um aplicativo móvel desenvolvido durante o hackathon Hacker Cid
 
 ConectaClima é um aplicativo móvel que permite aos usuários:
 
-📊 Registrar diferentes tipos de eventos climáticos, como chuvas, tempestades e ondas de calor.  
-🕒 Acompanhar a data, hora e localização dos eventos registrados.  
-🌐 Ver um mapa com a localização dos eventos registrados por outros usuários.  
+- 📊 Registrar diferentes tipos de eventos climáticos, como chuvas, tempestades e ondas de calor.
+- 🕒 Acompanhar a data, hora e localização dos eventos registrados.
+- 🌐 Ver um mapa com a localização dos eventos registrados por outros usuários.
 
 ## Tecnologias Utilizadas 🛠️
 
@@ -33,7 +33,7 @@ ConectaClima é um aplicativo móvel que permite aos usuários:
 
 ### Instalação
 
-1. Clone o Repositório:
+1. Clone o repositório:
     ```bash
     git clone https://github.com/DizeuM/HackerCidadao11.git
     ```
@@ -86,3 +86,5 @@ conectaclima/
 
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 ```
+
+Se precisar de mais alguma alteração, estou à disposição!
