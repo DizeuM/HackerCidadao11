@@ -1,5 +1,5 @@
 ```markdown
-# ConectaClima 🌍🌦️
+#ConectaClima 🌍🌦️
 
 ConectaClima é um aplicativo móvel desenvolvido durante o hackathon Hacker Cidadão. Ele permite que os usuários registrem e acompanhem eventos climáticos em suas regiões, promovendo a conscientização e a adaptação às mudanças climáticas.
 
