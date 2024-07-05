@@ -112,5 +112,3 @@ npm install
 3. Faça commit de suas mudanças (`git commit -m 'Add some AmazingFeature'`)
 4. Faça o push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
-
-```
